@@ -28,8 +28,11 @@
 
 
 ![alt text](assets/images/employeeTracker_promptQ.png)
+
 ![alt text](assets/images/employee.png)
+
 ![alt text](assets/images/department.png)
+
 ![alt text](assets/images/manager.png)
 
 

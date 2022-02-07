@@ -27,13 +27,14 @@
 💻  after download/clone and install, make a selection based on the prompted question.  
 
 
-![alt text](assets/images/employeeTracker_promptQ.png)
 
-![alt text](assets/images/employee.png)
+![alt text](assets/Images/employeeTracker_promptQ.png)
 
-![alt text](assets/images/department.png)
+![alt text](assets/Images/employee.png)
 
-![alt text](assets/images/manager.png)
+![alt text](assets/Images/department.png)
+
+![alt text](assets/Images/manager.png)
 
 
 Built with:

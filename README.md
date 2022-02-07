@@ -37,6 +37,15 @@
 ![alt text](assets/Images/manager.png)
 
 
+
+https://user-images.githubusercontent.com/92761848/152711879-634b427b-00a9-4e1b-b254-dece816563b7.mp4
+
+
+
+https://user-images.githubusercontent.com/92761848/152711842-763b1d91-8bcd-499e-8ef4-d7001f2feede.mp4
+
+
+
 Built with:
 
 - Javascript

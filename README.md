@@ -2,9 +2,13 @@
 ## Project Title: 
 <h1 align="center">Employee Tracker </h1>
 
+
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 ## Description:
 
-🔍 An SQL based application that enable the user to take and save notes. 
+🔍 This app is a content management systems (CMS) that are interfaces that allow non-developers to easily view and interact with information stored in databases. 
 
 ## Table of Contents
 - [Description](#description)
@@ -20,8 +24,8 @@
     
 
 ## Usage
-💻  after download and install ,
-using local host: 
+💻  after download/clone and install, make a selection based on the prompted question.  
+
 
 ![alt text](assets/images/employeeTracker_promptQ.png)
 ![alt text](assets/images/employee.png)

@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 const db = require('./db/connection');
 const cTable = require('console.table');
 const logo = require('asciiart-logo');
-const longText = 'Lorem';
+const longText = "This app is a CMS that manage company's employee database";
 console.log(
   logo({
   name: 'Employee Tracker',
@@ -11,7 +11,7 @@ console.log(
   lineChars: 10,
   padding: 2,
   margin: 3,
-  borderColor: 'grey',
+  borderColor: 'red',
   logoColor: 'bold-green',
   textColor: 'green',
   })

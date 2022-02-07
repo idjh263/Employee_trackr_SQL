@@ -16,7 +16,7 @@
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)git 
+- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation

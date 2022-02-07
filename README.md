@@ -54,6 +54,10 @@ Built with:
 - Npm console.table
 - Npm asciiart-logo
 
+## License
+
+https://opensource.org/licenses/MIT
+
 
 ## Credits 
 👪 Made by Irene with the help TA's, instructor @Trilogy,  Ethanlloyd21, cmelby and GOOGLE. 

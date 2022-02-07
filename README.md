@@ -1,9 +1,10 @@
-# Employee_trackr_SQL## Project Title: 
+# Employee_trackr_SQL
+## Project Title: 
 <h1 align="center">Employee Tracker </h1>
 
 ## Description:
 
-🔍 An Express.js based application that enable the user to take and save notes. 
+🔍 An SQL based application that enable the user to take and save notes. 
 
 ## Table of Contents
 - [Description](#description)
@@ -21,6 +22,7 @@
 ## Usage
 💻  after download and install ,
 using local host: 
+
 ![alt text](assets/images/employeeTracker_promptQ.png)
 ![alt text](assets/images/employee.png)
 ![alt text](assets/images/department.png)

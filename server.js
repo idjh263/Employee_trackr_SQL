@@ -21,7 +21,7 @@ console.log(
   .center(longText)
   .render()
 );
-//const apiRoutes = require('./routes/apiRoutes');
+
 
 
 const PORT = process.env.PORT || 3002;
@@ -30,7 +30,7 @@ const app = express();
 // Express middleware
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
-//app.use('/api', apiRoutes);
+
 // Connect to database
 // moved code to connection.js
 
@@ -111,7 +111,7 @@ startPrompt = () => {
                 break;
 
             case promptMessages.exit:
-                connection.end();
+                exit();
                 break;
         }
     });
@@ -229,7 +229,7 @@ async function addEmployee() {
                   }
               }
           }
-          console.log('Employee has been added. Please view all employee to verify...');
+          console.log('Employee has been added. Please view all employee to check data.');
           db.query(
               'INSERT INTO employee SET ?',
               {
@@ -248,7 +248,7 @@ async function addEmployee() {
   });
 
 }
-function remove(input) {
+remove = (input) => {
   const promptQ = {
       yes: "yes",
       no: "no I don't (view all employees on the main option)"
@@ -294,7 +294,7 @@ db.query('DELETE FROM employee WHERE ?',
 
 };
 
-function askId() {
+askId = () => {
   return ([
       {
           name: "name",
@@ -335,7 +335,7 @@ async function updateRole() {
   });
 }
 
-function askName() {
+askName = () => {
   return ([
       {
           name: "first",
@@ -349,3 +349,6 @@ function askName() {
       }
   ]);
 }
+exit = () => {
+    process.exit();
+  }

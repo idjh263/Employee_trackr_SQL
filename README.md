@@ -15,9 +15,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 💾  Download or Clone File then npm install or npm i 
@@ -27,22 +24,38 @@
 💻  after download/clone and install, make a selection based on the prompted question.  
 
 
+**View All Employees**
 
-![alt text](assets/Images/employeeTracker_promptQ.png)
+<img width="400" alt="view_employees" src="https://user-images.githubusercontent.com/92761848/163691121-84d7ff4d-0f9d-4a97-b614-f088abbabfdc.png">
 
-![alt text](assets/Images/employee.png)
+**View All Departments**
 
-![alt text](assets/Images/department.png)
+<img width="400" alt="view_department" src="https://user-images.githubusercontent.com/92761848/163691122-d5399e6a-f6b0-45e8-ae9e-1f815a4716cc.png">
 
-![alt text](assets/Images/manager.png)
+**View Managers**
 
+<img width="400" alt="view_manager" src="https://user-images.githubusercontent.com/92761848/163691125-908e9262-584b-46a6-8143-f277bb984c9f.png">
 
+**View All Roles**
 
-https://user-images.githubusercontent.com/92761848/152711879-634b427b-00a9-4e1b-b254-dece816563b7.mp4
+<img width="400" alt="view_roles" src="https://user-images.githubusercontent.com/92761848/163691129-d95bf62d-0457-49cf-94de-3758cf7d78a9.png">
 
+**Add Employee**
 
+<img width="400" alt="add_employee" src="https://user-images.githubusercontent.com/92761848/163691150-d2bd8f05-1338-4538-ab3f-38b2878fe866.png">
 
-https://user-images.githubusercontent.com/92761848/152711842-763b1d91-8bcd-499e-8ef4-d7001f2feede.mp4
+**Remove Employee**
+
+<img width="400" alt="remove_employee" src="https://user-images.githubusercontent.com/92761848/163691153-a8ea8874-61a9-48b7-8fcc-b18c54588f55.png">
+
+**Update Role**
+
+<img width="400" alt="update_role" src="https://user-images.githubusercontent.com/92761848/163691166-722873dd-4236-48b2-9117-e5ba9c502b62.png">
+
+**View Total Company Budget**
+
+<img width="400" alt="view_totalbudget" src="https://user-images.githubusercontent.com/92761848/163691177-663f0424-6f7f-44d0-97b5-fcbd8afb010d.png">
+
 
 
 

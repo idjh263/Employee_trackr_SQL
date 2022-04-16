@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS employee_tracker; 
+DROP DATABASE IF EXISTS pharmemployee_tracker; 
 
-CREATE DATABASE employee_tracker; 
+CREATE DATABASE pharmemployee_tracker; 
 
-USE employee_tracker; 
+USE pharmemployee_tracker; 

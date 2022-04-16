@@ -1,19 +1,23 @@
 {
-  "name": "Employee Tracker",
+  "name": "pharmemployee_tracker",
   "version": "1.0.0",
   "description": "",
   "main": "node server.js",
   "scripts": {
+    "devStart": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
     "express": "^4.17.2",
     "inquirer": "^8.2.0",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "terminal-kit": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }

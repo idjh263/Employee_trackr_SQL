@@ -58,6 +58,10 @@
 
 
 
+https://user-images.githubusercontent.com/92761848/163691674-782126b5-970e-46c3-a3fb-f89014fe73e3.mp4
+
+
+
 
 Built with:
 
@@ -65,7 +69,7 @@ Built with:
 - Npm Inquirer
 - MySQL
 - Npm console.table
-- Npm asciiart-logo
+- Npm terminal-kit
 
 ## License
 

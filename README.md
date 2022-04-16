@@ -1,6 +1,6 @@
-# Employee_trackr_SQL
+# PharmEmployee_trackr_SQL
 ## Project Title: 
-<h1 align="center">Employee Tracker </h1>
+<h1 align="center">Pharm-Employee Tracker </h1>
 
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
